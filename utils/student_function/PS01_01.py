@@ -1,3 +1,4 @@
+
 def append(l,d):
-    l += [d]
-    return l
+    lista = l + [d]
+    return lista
